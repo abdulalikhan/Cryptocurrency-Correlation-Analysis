@@ -1,5 +1,6 @@
 # Cryptocurrency Correlation Analysis
 ***:moneybag: Powered by the Yahoo Finance API***
+
 ***:art: Graphical User Interface designed with Tkinter***
 * Calculates and plots the correlations between any number of selected cryptocurrencies from the 373 cryptos listed on Yahoo Finance
 * Displays pearson correlation charts to help you visualize the relationship between various cryptocurrencies, allowing you to make informed decisions while trading.
