@@ -1,0 +1,5 @@
+setuptools~=49.2.1
+matplotlib~=3.4.1
+seaborn~=0.11.1
+pandas-datareader~=0.9.0
+tk~=0.1.0
